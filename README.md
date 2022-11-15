@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-By opening the console, you will see a random category to study. Once that section has been looked, at you may refresh the page as many times as you wish to help with your studying.
+By opening the console, you will see a random category to study. Once that section has been looked at, you may refresh the page as many times as you wish to help with your studying.
 
 ## Credits
 
